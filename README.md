@@ -1,7 +1,7 @@
 #          Movix - Ultimate Movie and TV Show Discovery Platform
 
 
-!            [alt text](src/assets/Screenshort/1.PNG)
+!  ![1](https://github.com/lalitkumarrout/movix/assets/72972512/8aaef0dc-7f3d-494e-9d99-b8ca9488a1c8)
 
 
 Movix is a web application built using React and Redux that allows users to search for movies and TV shows, view popular, trending, and upcoming releases on a daily and weekly basis, and explore detailed information about each title, including trailers and related videos.
