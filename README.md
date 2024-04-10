@@ -70,7 +70,7 @@ Technologies used in the project:
 * React Router - Navigation and routing within the application
 
 🙏 Acknowledgments
-* In the development of Movix, we express our gratitude to the following third-party libraries and APIs that have significantly contributed to the application's functionality and user experience:
+ In the development of Movix, we express our gratitude to the following third-party libraries and APIs that have significantly contributed to the application's functionality and user experience:
 
 * Redux Toolkit (@reduxjs/toolkit): A comprehensive toolset for managing application state with Redux, streamlining state management and reducing boilerplate code.
 
