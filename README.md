@@ -46,26 +46,29 @@ Explore Movies & TV Shows:
 
 
 🛠️ Installation Steps:
-1. Clone the repository
+* Clone the repository
 
 git clone https://github.com/lalitkumarrout/movix
-2. Install the required dependencies
+
+* Install the required dependencies
 
 npm install
-3. Start the development server
+* Start the development server
 
 npm run dev
-4. Access the application at
+* Access the application at
 
 http://localhost:5173
+
 💻 Built with
 Technologies used in the project:
 
-React - Building user interfaces
-Redux - UI state management
-scss - For styling
-Axios - API requests to the TMDB API
-React Router - Navigation and routing within the application
+* React - Building user interfaces
+* Redux - UI state management
+* scss - For styling
+* Axios - API requests to the TMDB API
+* React Router - Navigation and routing within the application
+
 🙏 Acknowledgments
 * In the development of Movix, we express our gratitude to the following third-party libraries and APIs that have significantly contributed to the application's functionality and user experience:
 
@@ -96,6 +99,7 @@ React Router - Navigation and routing within the application
 * Sass (sass): A powerful CSS preprocessor that streamlines and organizes styling, contributing to the overall visual aesthetics of the application.
 
 ⚠️ Disclaimer
+
 Please note that Movix relies on the TMDB API to fetch movie and TV show data. The accuracy, completeness, and availability of the data are subject to TMDB's policies and may be subject to change. Users are advised to refer to the TMDB API documentation and terms of use for any restrictions or usage guidelines related to the data accessed through the API.
 
 
